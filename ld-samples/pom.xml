@@ -8,7 +8,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>ld-samples</artifactId>
     <packaging>war</packaging>
-    <name>ld-samples Maven Webapp</name>
+    <name>ld-samples</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
