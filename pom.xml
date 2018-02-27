@@ -11,7 +11,7 @@
     <module>ld-core</module>
       <module>ld-samples</module>
   </modules>
-  <name>ld Maven Webapp</name>
+  <name>ld</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
